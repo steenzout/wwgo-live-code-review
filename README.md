@@ -7,7 +7,7 @@
 
 [![Project](https://www.openhub.net/p/go-steenzout-primogen/widgets/project_thin_badge.gif)][project]
 
-This repository was used during the [28th March 2019 Women Who Go Utah "Live Code Review Practice"](https://github.com/steenzout/wwgo-live-code-review) presentation.
+This repository was used during the [28th March 2019 Women Who Go Utah "Live Code Review Practice"](https://github.com/steenzout/wwgo-live-code-review)[event] presentation.
 
 [event]:    https://www.meetup.com/Women-Who-Go-Utah/events/vnfxkqyzfblc/   "Live code review practice"
 [license]:  https://raw.githubusercontent.com/steenzout/wwgo-live-code-review/master/LICENSE   "Apache License 2.0"
